@@ -77,6 +77,7 @@ input{
     margin-top: 20px;
     border-radius: 10px;
     border: none;
+    cursor: pointer;
 }
 span{
     color: hsl(158, 36%, 37%);
